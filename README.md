@@ -4,3 +4,5 @@ Additional Python libs:
 - Numpy
 - Scipy
 - Math
+
+Caution: Notbooks may be not be excecuted in Chrome browsers
