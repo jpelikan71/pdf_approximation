@@ -5,4 +5,4 @@ Additional Python libs:
 - Scipy
 - Math
 
-Caution: Notbooks may be not be excecuted in Chrome browsers
+Caution: Notebooks may be not be excecuted in Chrome browsers
