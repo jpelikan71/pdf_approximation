@@ -10,7 +10,7 @@ _For Demonstration, here are layouts from Jupyter notebooks execution_
 
 ## Demo for moment-based approximating PDF with a set of Legender plolynomials
 
-This is an adapted numerical calculation by method from *"The Problem of Moments" J. A. Shohat, J. D. Tamarki (Chapter III)*
+This is an adapted numerical calculation by method from book *"The Problem of Moments" J. A. Shohat, J. D. Tamarkin (Chapter III, p.90)*
 
 ```python
 import numpy as np
