@@ -1,11 +1,16 @@
 # Simple Python 3 code to realize algorythms of probability distribution functions approximations with various ways
-Additional Python libs: 
+Additional Python libs for execution:: 
+
 - Matplotlib to draw graphs
 - Numpy
 - Scipy
 - Math
 
-# For Demonstration, here are layouts from Jupyter notebooks execution. 
+_For Demonstration, here are layouts from Jupyter notebooks execution_
+
+## Demo for moment-based approximating PDF with a set of Legender plolynomials
+
+This is an adapted numerical calculation by method from *"The Problem of Moments" J. A. Shohat, J. D. Tamarki (Chapter III)*
 
 ```python
 import numpy as np
@@ -121,3 +126,7 @@ plt.show()
 
 
 ![png](./img/output_14_0.png)
+
+## Demo for estimation PDF with a "maximimum entropy maximization" method
+
+This is a quite simple realization of method from article *"Maximum entropy in the problem of moments" by Lawrence R. Mead and N. Papanicolaou. J. Math. Phys. 25, 2404 (1984); doi: 10.1063/1.526446*
