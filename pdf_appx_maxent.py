@@ -4,12 +4,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # Used libs: pda_utils for manipulating with PDF/CDF and their statistics, maxent_appx is realization of maximum entropy optimization procedure that leads to probability distribution function estimation.   
 
 import pdf_appx.pda_utils as cd
 import pdf_appx.maxent_appx as me
-
 
 # Define points of approximation in (0;1) and number of moments (by power, excluding zero power moment ==1) will be used for approximation:
 
